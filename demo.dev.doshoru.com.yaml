@@ -82,7 +82,7 @@ spec:
   tls:
   - hosts:
     - demo.doshoru.com
-    secretName: wildcard.dev.doshoru.com
+    secretName: wildcard-dev-doshoru-com
   rules:
   - host: demo.dev.doshoru.com
     http:
